@@ -4,7 +4,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+
+- [Frontend Mentor - Social Media Links solution]
   - [Table of contents](#table-of-contents)
     - [Screenshots](#screenshots)
   - [Desktop](#desktop)
@@ -26,7 +27,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-yx4YQSPW5A
-- Live Site URL: https://felixdrawe.github.io/blog-preview-card/
+- Live Site URL: https://felixdrawe.github.io/social-links-profile/
 
 ### Built with
 
