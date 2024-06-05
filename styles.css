@@ -76,8 +76,8 @@ h1 {
 }
 
 .avatar {
-  width: 6em;
-  height: 6em;
+  width: 5.5em;
+  height: 5.5em;
   border-radius: 50%;
   object-fit: cover;
 }
