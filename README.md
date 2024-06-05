@@ -1,11 +1,10 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Social Links Profile solution
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
 ## Table of contents
 
-
-- [Frontend Mentor - Social Media Links solution]
+- [Frontend Mentor - Social Links Profile solution](#frontend-mentor---social-links-profile-solution)
   - [Table of contents](#table-of-contents)
     - [Screenshots](#screenshots)
   - [Desktop](#desktop)
@@ -26,7 +25,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-yx4YQSPW5A
+- Solution URL: https://www.frontendmentor.io/solutions/sociallinksprofile-b1Me-PJm44
 - Live Site URL: https://felixdrawe.github.io/social-links-profile/
 
 ### Built with
